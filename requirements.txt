@@ -1,0 +1,8 @@
+munkres==1.1.2
+numpy==1.18.0
+kymatio==0.2.0
+torchvision==0.7.0
+tqdm==4.50.2
+torch==1.6.0
+scipy==1.6.1
+scikit_learn==0.20.2
