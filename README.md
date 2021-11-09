@@ -19,7 +19,7 @@ python feature_generation.py --dataset=MNIST
 For MCR$^2$ feature generation, please refer to [ryanchankh/mcr2](https://github.com/ryanchankh/mcr2).
 
 ### Update
-Files under ./datasets were not properly uploaded, you may download the datasets from [here]. (https://drive.google.com/file/d/1ZhU8TWAY7bOyo-hLdx5PcJ_Js0Q610hL/view?usp=sharing)
+Files under ./datasets were not properly uploaded, you may download the datasets from [here](https://drive.google.com/file/d/1ZhU8TWAY7bOyo-hLdx5PcJ_Js0Q610hL/view?usp=sharing).
 
 ### Contact
 Please contact zhangshangzhi@bupt.edu.cn if you have any question on the codes.
